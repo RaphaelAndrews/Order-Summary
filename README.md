@@ -15,6 +15,6 @@ Essa é a minha solução para o desafio do Frontendmentor.io - Order Summary
 - CSS Grid
 - Mobile-first
 
-## Author
+## Autor
 
 - LinkedIn - [Raphael Andrews](https://www.linkedin.com/in/raphael-andrews/)
