@@ -1,4 +1,4 @@
-# Frontend Mentor - Solução QR Code Componente
+# Frontend Mentor - Solução Order Summary
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
